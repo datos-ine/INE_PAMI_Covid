@@ -1,0 +1,125 @@
+---
+title: ""
+format: 
+  revealjs:
+    transition: fade
+    center: true
+    incremental: true
+editor: visual
+---
+
+#  {background-image="fondo_ppt_title.png"}
+
+## Aplicación de GAMM en el estudio de la respuesta inmune humoral post vacunación contra COVID-19 en adultos mayores institucionalizados {background-image="fondo_ppt.png" style="text-align: center"}
+
+::: {style="font-size: 20px;"}
+Tamara Ricardo^1^, Andrea Silva^1^ , Christian Ballejo^1^, M. Fernanda Aguirre^1^, M. Jimena Marro^1^, Pamela E. Rodriguez^2^, Pablo Rall^3^, Esteban A. Miglietta^2^, Lucía A. López-Miranda^1^, Verónica Poncet^1^, Carla A. Pasquale^2^, Yanina Miragaya^3^, Andrea Gamarnik^2^, Andrés H. Rossi^2^
+:::
+
+::: {style="font-size: 15px;"}
+^1^ Instituto Nacional de Epidemiología “Dr. J. H. Jara” (INE), ANLIS Malbrán, Mar del Plata, Buenos Aires, Argentina; ^2^ Fundación Instituto Leloir, CONICET, Buenos Aires, Argentina; ^3^ Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (INSSPP-PAMI), Buenos Aires, Argentina
+:::
+
+## Introducción {background-image="fondo_ppt.png"}
+
+::::::::::::::: columns
+:::: {.column width="20%"}
+::: fragment
+![](icons/virus_5640970.png){width="128"}
+:::
+::::
+
+:::: {.column width="80%"}
+::: fragment
+La pandemia de COVID-19 tuvo un gran impacto sanitario, económico y social a nivel global.
+:::
+::::
+
+:::: {.column width="20%"}
+::: fragment
+![](icons/grandparents_3199921.png)
+:::
+::::
+
+:::: {.column width="80%"}
+::: fragment
+Los adultos mayores presentaron mayor riesgo de hospitalización y muerte.
+:::
+::::
+
+:::: {.column width="20%"}
+::: fragment
+![](icons/nursing-home_5635660.png){width="128"}
+:::
+::::
+
+:::: {.column width="80%"}
+::: fragment
+Los establecimientos de estancia prolongada (EEP) fueron foco de brotes, por la fragilidad de sus residentes y la permanencia en espacios semicerrados.
+:::
+::::
+:::::::::::::::
+
+::: footer
+Imágenes por Freepik
+:::
+
+##  {background-image="fondo_ppt.png"}
+
+::::::::::: columns
+:::: {.column width="20%"}
+::: fragment
+![](icons/argentina-flag_10419116.png){width="128"}
+:::
+::::
+
+:::: {.column width="80%"}
+::: fragment
+En Argentina, los adultos mayores fueron uno de los grupos prioritarios para recibir las vacunas contra el COVID-19 Sputnik-V, Sinopharm o AZd1222.
+:::
+::::
+
+:::: {.column width="20%"}
+::: fragment
+![](icons/vaccine_9819603.png){width="128"}
+:::
+::::
+
+:::: {.column width="80%"}
+::: fragment
+Existe escasa información sobre el efecto de estas plataformas de vacunación en adultos mayores de la región.
+:::
+::::
+:::::::::::
+
+::: footer
+Imágenes por Freepik
+:::
+
+## Objetivos {background-image="fondo_ppt.png"}
+
+::::: columns
+::: {.column width="80%"}
+Evaluar factores que influyeran sobre la respuesta inmune humoral en residentes de EEP de la provincia de Buenos Aires a 180 días post vacunación.
+:::
+
+::: {.column width="20%"}
+![](icons/calendar_7927337.png){width="200"}
+:::
+:::::
+
+::: footer
+Imágenes por Freepik
+:::
+
+## Métodos {background-image="fondo_ppt.png"}
+
+::::: columns
+::: {.column width="20%"}
+![](icons/statistics_2950163.png){width="128"}
+:::
+
+::: {.column width="80%"}
+Estudio de cohortes prospectivo multicéntrico
+:::
+:::::

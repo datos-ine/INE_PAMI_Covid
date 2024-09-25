@@ -1,0 +1,6 @@
+.reveal .slides {
+  /* Cambia los colores para tu gradiente */
+    background: linear-gradient(to right, #123456, #654321); 
+  /* Cambia tamaño del fondo */
+  background-size: 100% 100%;
+}
