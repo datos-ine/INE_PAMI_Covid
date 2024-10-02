@@ -1,125 +1,159 @@
 ---
-title: ""
 format: 
-  revealjs:
+  revealjs: 
+    css: diapos.css
     transition: fade
-    center: true
-    incremental: true
-editor: visual
+    logo: "logos_ine.png"
+    chalkboard: true
+    theme: simple
 ---
 
-#  {background-image="fondo_ppt_title.png"}
+# Presentación GAB 2024 {.title-slide background-image="fondo_ppt_title.png" background-color="white"}
 
-## Aplicación de GAMM en el estudio de la respuesta inmune humoral post vacunación contra COVID-19 en adultos mayores institucionalizados {background-image="fondo_ppt.png" style="text-align: center"}
+::: footer
+![](logo_congreso.png){width="40%"}
+:::
 
-::: {style="font-size: 20px;"}
+## Aplicación de GAMM en el estudio de la respuesta inmune humoral post vacunación contra COVID-19 en adultos mayores institucionalizados {.center style="text-align: center;"}
+
+::: r-fit-text
 Tamara Ricardo^1^, Andrea Silva^1^ , Christian Ballejo^1^, M. Fernanda Aguirre^1^, M. Jimena Marro^1^, Pamela E. Rodriguez^2^, Pablo Rall^3^, Esteban A. Miglietta^2^, Lucía A. López-Miranda^1^, Verónica Poncet^1^, Carla A. Pasquale^2^, Yanina Miragaya^3^, Andrea Gamarnik^2^, Andrés H. Rossi^2^
 :::
 
-::: {style="font-size: 15px;"}
+::: {style="font-size:0.5em;"}
 ^1^ Instituto Nacional de Epidemiología “Dr. J. H. Jara” (INE), ANLIS Malbrán, Mar del Plata, Buenos Aires, Argentina; ^2^ Fundación Instituto Leloir, CONICET, Buenos Aires, Argentina; ^3^ Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (INSSPP-PAMI), Buenos Aires, Argentina
 :::
 
-## Introducción {background-image="fondo_ppt.png"}
+## INTRODUCCIÓN
 
-::::::::::::::: columns
-:::: {.column width="20%"}
-::: fragment
-![](icons/virus_5640970.png){width="128"}
+<br>
+
+::::::::: columns
+:::: {.column .fragment width="33%"}
+![](icons/virus_5640970.png){fig-align="center" width="150"}
+
+::: {style="font-size:.75em; text-align: center"}
+La pandemia de COVID-19 tuvo gran impacto sanitario, social y económico a nivel global
 :::
 ::::
 
-:::: {.column width="80%"}
-::: fragment
-La pandemia de COVID-19 tuvo un gran impacto sanitario, económico y social a nivel global.
+:::: {.column .fragment width="33%"}
+![](icons/grandparents_2173796.png){fig-align="center" width="150"}
+
+::: {style="font-size:.75em; text-align: center"}
+Los adultos mayores presentaron mayor riesgo de hospitalización y muerte
 :::
 ::::
 
-:::: {.column width="20%"}
-::: fragment
-![](icons/grandparents_3199921.png)
+:::: {.column .fragment width="33%"}
+![](icons/nursing-home_5635660.png){fig-align="center" width="150"}
+
+::: {style="font-size:.75em; text-align: center"}
+Los establecimientos de estancia prolongada (EEP) fueron foco de brotes de COVID-19
+:::
+::::
+:::::::::
+
+## INTRODUCCIÓN
+
+<br>
+
+::::::: columns
+:::: {.column .fragment width="50%"}
+![](icons/calendar_7927337.png){fig-align="center" width="150"}
+
+::: {style="font-size:.75em; text-align: center"}
+En Argentina, los adultos mayores fueron uno de los grupos prioritarios para recibir vacunación contra el COVID-19
 :::
 ::::
 
-:::: {.column width="80%"}
-::: fragment
-Los adultos mayores presentaron mayor riesgo de hospitalización y muerte.
+:::: {.column .fragment width="50%"}
+![](icons/statistics_2950163.png){fig-align="center" width="150"}
+
+::: {style="font-size:.75em; text-align: center"}
+Existe escasa información sobre el efecto de estas vacunas en adultos mayores de la región
 :::
 ::::
+:::::::
 
-:::: {.column width="20%"}
-::: fragment
-![](icons/nursing-home_5635660.png){width="128"}
-:::
-::::
+## OBJETIVOS {.center style="text-align: center; font-size:3rem;"}
 
-:::: {.column width="80%"}
-::: fragment
-Los establecimientos de estancia prolongada (EEP) fueron foco de brotes, por la fragilidad de sus residentes y la permanencia en espacios semicerrados.
-:::
-::::
-:::::::::::::::
+<br>
 
-::: footer
-Imágenes por Freepik
-:::
+Evaluar factores que influyen sobre la respuesta inmune humoral en residentes de EEP de la provincia de Buenos Aires a 180 días post vacunación.
 
-##  {background-image="fondo_ppt.png"}
+## MÉTODOS {.center style="text-align: center; font-size:3rem;"}
 
-::::::::::: columns
-:::: {.column width="20%"}
-::: fragment
-![](icons/argentina-flag_10419116.png){width="128"}
-:::
-::::
+## Sitio y diseño de estudio {style="font-size:  .75em;"}
 
-:::: {.column width="80%"}
-::: fragment
-En Argentina, los adultos mayores fueron uno de los grupos prioritarios para recibir las vacunas contra el COVID-19 Sputnik-V, Sinopharm o AZd1222.
-:::
-::::
+::: incremental
+-   Estudio de cohortes, abierto, prospectivo, multicéntrico.
 
-:::: {.column width="20%"}
-::: fragment
-![](icons/vaccine_9819603.png){width="128"}
-:::
-::::
+-   EEP de las regiones de PAMI VI, X y XI de la provincia de Buenos Aires (PBA).
 
-:::: {.column width="80%"}
-::: fragment
-Existe escasa información sobre el efecto de estas plataformas de vacunación en adultos mayores de la región.
-:::
-::::
-:::::::::::
+-   Aplicación de dos dosis de vacunas Sputnik V, Sinopharm o AZD1222.
 
-::: footer
-Imágenes por Freepik
+-   Medición de anticuerpos a los 0, 21, 42, 120 y 180 días post primera dosis con el test COVID-AR IgG.
 :::
 
-## Objetivos {background-image="fondo_ppt.png"}
+## Sitio y diseño de estudio {style="font-size:.75em;"}
 
-::::: columns
-::: {.column width="80%"}
-Evaluar factores que influyeran sobre la respuesta inmune humoral en residentes de EEP de la provincia de Buenos Aires a 180 días post vacunación.
+::: incremental
+-   Criterios de inclusión:
+
+    -   Residentes de 60+ años que aceptaran vacunarse contra el COVID-19.
+
+    -   Firma de consentimiento informado.
+
+-   Criterios de exclusión:
+
+    -   Participantes que abandonaron/fallecieron antes de la primer instancia de seguimiento.
+
+    -   Datos incompletos sobre comorbilidades y exposición a brotes.
 :::
 
-::: {.column width="20%"}
-![](icons/calendar_7927337.png){width="200"}
-:::
-:::::
+## Análisis de datos {style="font-size: .75em;"}
 
-::: footer
-Imágenes por Freepik
+::: incremental
+-   Variable respuesta:
+
+    -   Nivel de anticuerpos IgG contra COVID-19.
+
+    -   Valores por debajo del límite de detección imputados por regresión lineal para datos censurados a la izquierda (paquete *censml*).
+
+    -   Transformación logarítmica.
+
+-   Covariables:
+
+    -   Interacción entre tiempo y exposición (naïve, no-naïve) y vacuna.
+
+    -   Comorbilidades y brotes en el EEP.
 :::
 
-## Métodos {background-image="fondo_ppt.png"}
+## Análisis de datos {style="font-size: .75em;"}
 
-::::: columns
-::: {.column width="20%"}
-![](icons/statistics_2950163.png){width="128"}
+::: incremental
+-   Modelos aditivos generalizados mixtos (GAMM):
+
+    -   Autocorrelación temporal *corCAR1*
+
+    -   Heterogeneidad de varianzas (*varIdent*)
+
+    -   Efectos aleatorios del participante y el EEP.
+
+-   Inferencias a partir de la parte paramétrica del modelo.
 :::
 
-::: {.column width="80%"}
-Estudio de cohortes prospectivo multicéntrico
+## RESULTADOS {.center style="text-align: center; font-size:3rem;"}
+
+## Descripción de la cohorte {style="font-size:.75em;"}
+
+::: incremental
+-   Se incluyeron 776 participantes provenientes de 56 EEP:
+
+    -   42,8% con exposición previa a COVID-19 (no-naïve)
+
+    -   57,2% sin exposición previa a COVID-19 (naïve)
+
+-   
 :::
-:::::

@@ -1,0 +1,55 @@
+/* Oculta texto diapositiva de títulos */
+.reveal .slides > section:first-of-type h1{
+  display: none;
+}
+
+.reveal .slide-logo {
+  z-index: -999 !important;
+}
+
+/* Cambia color de texto en títulos */
+.reveal h2{
+    background: #2F2E4E;
+    color: white; 
+    text-indent: 10px;         /* Ajusta la sangría en píxeles */
+    padding: 25px;             /* Espaciado interno para que el texto no esté pegado al borde */
+    border-radius: 20px;        /* Bordes redondeados opcionales */
+    
+}
+
+/* Cambia color de subtitulo */
+.reveal h3{
+    color: #2F2E4E;
+    
+}
+
+
+/* Cambia color de texto */
+.reveal p{
+    color: #2F2E4E;
+    
+}
+
+
+/* Aplicar imagen de fondo a todas las diapositivas */
+.reveal::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("icons/virus_2895739.png");
+    background-repeat: repeat; /* Repetir la imagen de fondo */
+    background-size: 100px; /* Ajustar el tamaño del fondo */
+    opacity: 0.1; /* Simular el background-opacity con la opacidad */
+    z-index: -1; /* Asegurar que esté detrás del contenido */
+}
+
+/* Cambiar el color del texto de las listas no numeradas (<ul>) */
+.reveal ul li {
+    color: #2F2E4E;
+    font-size:1em;
+    margin-bottom:2.25em;
+    margin-top: 2.25em;
+}
